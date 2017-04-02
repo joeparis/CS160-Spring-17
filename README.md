@@ -3,7 +3,7 @@
 **Joe Paris**  
 Office: MKH-116  
 Email: joe.paris@linnbenton.edu  
-Web site: `http://joeparis.net`
+[Instructor's web site](http://cf.linnbenton.edu/bcs/cs/parisj/web.cfm?pgID=3428)
 
 ## Course Description
 
