@@ -51,33 +51,17 @@ While in class, please set your cell phone to *vibrate*. If you need to take a c
 
 Homework assignments may include completing designated readings or viewings, individual homework problems, lab activities, and individual or group projects. Homework is designed to enhance your understanding of key concepts and materials. Thoroughly reading, studying, and practicing each assignment is highly recommended.
 
-It is recommended that you use the computers in the labs in McKenzie Hall (MKH-105, MKH-103) or the Library Computer Lab. You are responsible for checking the lab schedule for its hours.
-
-Alternately, you may use your own personal computer provided it has any required software installed.
-
 Assigments are due by 5:00 p.m. on the scheduled due date.
 
 Late assignments will not be accepted, no exceptions.
 
 Assignments may not be submitted via e-mail.
 
-Written assignments must be word processed and spell- and grammar-checked.
-
-### Quizzes
-
-Quizzes will be given the last class period of each week with the exception of Weeks 1, 9 & 10. 
-
-No make-up quizzes will be given without *prior* arrangements.
-
-The lowest quiz score will be dropped.
+All assignments must be word processed and spell- and grammar-checked.
 
 ### Exams
 
-*No midterm or final exams will be given.* Daily quizzes will take the place of the midterm and the two projects below will take the place of the final.
-
-### Programming & Robotics Project
-
-Further details and guidelines for these assignments will be given later in the course.
+*No midterm or final exams will be given.* A programming project will be given in lieu of a midterm exam and a robotics project will take the place of the final exam.
 
 ## Tutors
 
@@ -89,10 +73,9 @@ Grades will be determined according to the following schedule:
 
 Type | Weight
 ---- | -------
-Homework | 30%
-Quizzes | 30%
-Programming Project | 20%
-Robotics Project | 20%
+Homework | 50%
+Programming Project | 25%
+Robotics Project | 25%
 
 | Score | Grade |
 | ----- | ----- |
