@@ -13,8 +13,6 @@ CS160 introduces the field of computer science and programming.  It covers binar
 
 MTH60 Introduction to Algebra with a 'C' or better
 
-Recommended concurrent registration in Math 65 and CS 120
-
 ## Outcomes
 
 Upon completion of the course you will be able to:
