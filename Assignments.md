@@ -2,9 +2,9 @@
 
 Assign # | Description | Due Date
 -------- | ----------- | --------
-1 | See description below | April 5
-2 | pg 74: 6, 12, 13, 15, 19  | April 10
-3 | pg 74: 7, 18, 24, 26, 27| April 12
+1 | See description below<br>Read Chapter 1.1&ndash;1.4 | April 5
+2 | pg 74: 6, 12, 13, 15, 19<br>Read Chapter 1.5&ndash;1.9  | April 11
+3 | pg 74: 7, 18, 24, 26, 27| April 13
 4 | pg 75: 29, 30, 32, 33, 35 | April 17
 5 | pg 75: 36, 37, 38, 44, 46 | April 19
 6 | See description below | April 24
