@@ -1,3 +1,11 @@
+# Python
+
+[The Python Tutorial](https://docs.python.org/3/tutorial/) (text) from python.org
+
+[Python 3 Tutorial](https://www.tutorialspoint.com/python3/index.htm) (text) from tutorialspoint.com
+
+[Python Programming Tutorial](https://thenewboston.com/videos.php?cat=98) (video) from the New Boston
+
 # Chapter 0
 
 [Algorithms BBC](https://youtu.be/gOKVwRIyWdg)
