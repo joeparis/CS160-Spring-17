@@ -8,8 +8,8 @@ Assign # | Description | Due Date
 4 | pg 75: 29, 30, 32, 33, 35 | April 17
 5 | pg 75: 36, 37, 38, 44, 46 | April 19
 6 | See description below<br>Read Chapter 2.1&ndash;2.3 | April 24
-7 | pg 119: 3, 5, 7, 9, 12 | April 26
-Lab 1 | Model CPU: see instructions below<br>Read Chapter 2.4&ndash;2.6 | May 1
+7 | pg 119: 3, 5, 7, 9, 12 | April 28
+Lab 1 | Model CPU: see instructions below<br>Read Chapter 2.4&ndash;2.6 | May 2
 8 | pg 120: 15, 16, 17, 20, 21 | May 3
 Lab 2 | Model CPU: see instructions below<br>Read Chapter 3.1&ndash;3.4 &amp; 3.5 | May 8
 9 | pg 151: 1, 2, 13, 15, 18<br>Read Chapter 4.1&ndash;4.4 | May 10
