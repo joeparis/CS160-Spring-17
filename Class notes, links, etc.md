@@ -1,3 +1,7 @@
+# Operating Systems
+
+[Here's a link to the YouTube playlist we used in class during lecture.](https://www.youtube.com/playlist?list=PL6KeG7tQb8-fIRzxwooTuQS4pHypLQs0s)
+
 # Python
 
 [The Python Tutorial](https://docs.python.org/3/tutorial/) (text) from python.org
