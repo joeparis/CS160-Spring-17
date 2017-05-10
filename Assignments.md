@@ -11,7 +11,7 @@ Assign # | Description | Due Date
 7 | pg 119: 3, 5, 7, 9, 12 | April 28
 Lab 1 | Model CPU: see instructions below<br>Read Chapter 2.4&ndash;2.6 | May 2
 8 | pg 120: 15, 16, 17, 20, 21 | May 3
-Lab 2 | Model CPU: see instructions below<br>Read Chapter 3.1&ndash;3.4 &amp; 3.5 | May 15
+Lab 2 | Model CPU: see instructions below<br>Read Chapter 3.1&ndash;3.4 &amp; 3.5 | May 17
 9 | pg 151: 1, 2, 13, 15, 18<br>Read Chapter 4.1&ndash;4.4 | May 15
 10 | pg 199: 1, 6, 10, 15, 24<br>Read Chapter 5.1&ndash;5.6 | May 17
 11 | pg 251: 5, 13, 18, 22, 26<br>Read Chapter 6.1&ndash;6.6 | May 22
