@@ -1,3 +1,7 @@
+# Chapter 5 Algorithms
+
+[Sorting with Dance](https://www.youtube.com/watch?v=EdIKIf9mHk0&list=PLOmdoKois7_FK-ySGwHBkltzB11snW7KQ)
+
 # Operating Systems
 
 [Here's a link to the YouTube playlist we used in class during lecture.](https://www.youtube.com/playlist?list=PL6KeG7tQb8-fIRzxwooTuQS4pHypLQs0s)
