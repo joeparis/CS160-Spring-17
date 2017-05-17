@@ -1,3 +1,9 @@
+# Text Editors
+
+[Atom](https://atom.io/): A hackable text editor for the 21st Century
+
+[Visual Studio Code](https://code.visualstudio.com/) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Python, PHP, Go) and runtimes (such as .NET and Unity).
+
 # Chapter 5 Algorithms
 
 [Sorting with Dance](https://www.youtube.com/watch?v=EdIKIf9mHk0&list=PLOmdoKois7_FK-ySGwHBkltzB11snW7KQ)
