@@ -7,6 +7,7 @@
 # Chapter 5 Algorithms
 
 [Sorting with Dance](https://www.youtube.com/watch?v=EdIKIf9mHk0&list=PLOmdoKois7_FK-ySGwHBkltzB11snW7KQ)
+
 [Big-O notation in 5 minutes — The basics](https://youtu.be/__vX2sjlpXU)
 
 # Operating Systems
