@@ -10,6 +10,9 @@
 
 [Big-O notation in 5 minutes — The basics](https://youtu.be/__vX2sjlpXU)
 
+[Python Programming Beginner Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+
+
 # Operating Systems
 
 [Here's a link to the YouTube playlist we used in class during lecture.](https://www.youtube.com/playlist?list=PL6KeG7tQb8-fIRzxwooTuQS4pHypLQs0s)
