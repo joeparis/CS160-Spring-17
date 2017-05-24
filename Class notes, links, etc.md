@@ -1,3 +1,10 @@
+# Python Tutorials
+
+* [python.org tutorial](https://docs.python.org/3/tutorial/)
+* [Python Programming Beginner Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+* [Python 3 Tutorial](https://www.tutorialspoint.com/python3/index.htm) (text) from tutorialspoint.com
+* [Python Programming Tutorial](https://thenewboston.com/videos.php?cat=98) (video) from the New Boston
+
 # Text Editors
 
 [Atom](https://atom.io/): A hackable text editor for the 21st Century
