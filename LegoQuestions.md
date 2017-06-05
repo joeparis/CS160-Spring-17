@@ -1,4 +1,4 @@
-6) Individually, answer the following questions in a separate Google Docs document and save it in the folder you’ve shared with your instructor. A copy of these questions will be put on the class Git repo for your convenience. 
+6) *Individually*, answer the following questions in a separate Google Docs document and save it in the folder you’ve shared with your instructor. 
 	
    a) Explain, in your own words, how the concept of abstraction is implemented within the robotics programming language?   
    b) Give an example of syntax and semantics used in the robotics programming language?   
